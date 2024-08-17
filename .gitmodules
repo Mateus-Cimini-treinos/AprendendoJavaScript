@@ -70,3 +70,12 @@
 [submodule "025-slideJs"]
 	path = 025-slideJs
 	url = https://github.com/Mateus-Cimini-treinos/025-slideJs.git
+[submodule "AntesDoReact"]
+	path = AntesDoReact
+	url = https://github.com/Mateus-Cimini-treinos/AntesDoReact.git
+[submodule "React"]
+	path = React
+	url = https://github.com/Mateus-Cimini-treinos/React.git
+[submodule "aprendendoTailwind"]
+	path = aprendendoTailwind
+	url = https://github.com/Mateus-Cimini-treinos/aprendendoTailwind.git
