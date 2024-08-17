@@ -1,3 +1,72 @@
 [submodule "001-AlertJs"]
 	path = 001-AlertJs
 	url = https://github.com/Mateus-Cimini-treinos/001-AlertJs.git
+[submodule "002-basicJS"]
+	path = 002-basicJS
+	url = https://github.com/Mateus-Cimini-treinos/002-basicJS.git
+[submodule "003-FormatacaoJS"]
+	path = 003-FormatacaoJS
+	url = https://github.com/Mateus-Cimini-treinos/003-FormatacaoJS.git
+[submodule "004-OperadoresJs"]
+	path = 004-OperadoresJs
+	url = https://github.com/Mateus-Cimini-treinos/004-OperadoresJs.git
+[submodule "005-CondicionaisJS"]
+	path = 005-CondicionaisJS
+	url = https://github.com/Mateus-Cimini-treinos/005-CondicionaisJS.git
+[submodule "006-ManipulandoDOOcomJS"]
+	path = 006-ManipulandoDOOcomJS
+	url = https://github.com/Mateus-Cimini-treinos/006-ManipulandoDOOcomJS.git
+[submodule "008-SitedeHora"]
+	path = 008-SitedeHora
+	url = https://github.com/Mateus-Cimini-treinos/008-SitedeHora.git
+[submodule "009-QuemVcE"]
+	path = 009-QuemVcE
+	url = https://github.com/Mateus-Cimini-treinos/009-QuemVcE.git
+[submodule "010-LoopsJS"]
+	path = 010-LoopsJS
+	url = https://github.com/Mateus-Cimini-treinos/010-LoopsJS.git
+[submodule "011-Contador"]
+	path = 011-Contador
+	url = https://github.com/Mateus-Cimini-treinos/011-Contador.git
+[submodule "0012-arraysJs"]
+	path = 0012-arraysJs
+	url = https://github.com/Mateus-Cimini-treinos/0012-arraysJs.git
+[submodule "013-FuncoesJs"]
+	path = 013-FuncoesJs
+	url = https://github.com/Mateus-Cimini-treinos/013-FuncoesJs.git
+[submodule "014-ListaNumeros"]
+	path = 014-ListaNumeros
+	url = https://github.com/Mateus-Cimini-treinos/014-ListaNumeros.git
+[submodule "015-ObjetosJs"]
+	path = 015-ObjetosJs
+	url = https://github.com/Mateus-Cimini-treinos/015-ObjetosJs.git
+[submodule "016-calculadoraImc"]
+	path = 016-calculadoraImc
+	url = https://github.com/Mateus-Cimini-treinos/016-calculadoraImc.git
+[submodule "017-LampadaJs"]
+	path = 017-LampadaJs
+	url = https://github.com/Mateus-Cimini-treinos/017-LampadaJs.git
+[submodule "018-lampadacom1botaoJs"]
+	path = 018-lampadacom1botaoJs
+	url = https://github.com/Mateus-Cimini-treinos/018-lampadacom1botaoJs.git
+[submodule "019-semaforojs"]
+	path = 019-semaforojs
+	url = https://github.com/Mateus-Cimini-treinos/019-semaforojs.git
+[submodule "020-DrumkitJS"]
+	path = 020-DrumkitJS
+	url = https://github.com/Mateus-Cimini-treinos/020-DrumkitJS.git
+[submodule "021-CuntdownJs"]
+	path = 021-CuntdownJs
+	url = https://github.com/Mateus-Cimini-treinos/021-CuntdownJs.git
+[submodule "022-Calculadorajs"]
+	path = 022-Calculadorajs
+	url = https://github.com/Mateus-Cimini-treinos/022-Calculadorajs.git
+[submodule "023-Notas"]
+	path = 023-Notas
+	url = https://github.com/Mateus-Cimini-treinos/023-Notas.git
+[submodule "024-Crudjs"]
+	path = 024-Crudjs
+	url = https://github.com/Mateus-Cimini-treinos/024-Crudjs.git
+[submodule "025-slideJs"]
+	path = 025-slideJs
+	url = https://github.com/Mateus-Cimini-treinos/025-slideJs.git
